@@ -5,7 +5,7 @@
 
 - 🌱 J'apprends actuellement **JavaScript, React**
 
-<img align='right' alt='coding' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
+<img align='right' alt='coding' width='400' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdhMzhhNTNjYTU4OTJhMzA3MjQ1MTU1MGY4MmE5MGMwYWJiOGZlYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif'>
 
 <h3 align="left">Pour me contacter :</h3>
 <p align="left">

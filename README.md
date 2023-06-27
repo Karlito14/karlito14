@@ -1,7 +1,7 @@
 <h1 align="center">Salut à tous👋, Je suis Carlos Leiroz</h1>
 <h3 align="center">Étudiant développeur web chez Openclassrooms, j'❤️ le JavaScript</h3>
 
-- 🔭 Je travaille actuellement sur [Voyage de Reve](https://github.com/Karlito14/VoyageReve.git)
+- 🔭 Je travaille actuellement sur [TV Show Adviser](https://github.com/Karlito14/tvShowAdviser.git)
 
 - 🌱 J'apprends actuellement **JavaScript, React**
 

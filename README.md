@@ -5,7 +5,7 @@
 
 - 🌱 J'apprends actuellement **JavaScript, React**
 
-- 📚 Je suis en formation chez [Openclassrooms](https://openclassrooms.com/fr/) et je passe la formation Développeur d'applications JavaScrip / React
+- 📚 Je suis en formation chez [Openclassrooms](https://openclassrooms.com/fr/) et je passe la formation **Développeur d'applications JavaScrip / React**
 
 <img align='right' alt='coding' width='400' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdhMzhhNTNjYTU4OTJhMzA3MjQ1MTU1MGY4MmE5MGMwYWJiOGZlYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif'>
 

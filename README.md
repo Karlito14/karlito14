@@ -3,7 +3,7 @@
 
 - 🔭 Je travaille actuellement sur [Billed](https://github.com/Karlito14/projet9Billed)
 
-- 🌱 J'apprends actuellement **JavaScript, TypeScript, React**
+- 🌱 J'apprends actuellement **JavaScript, TypeScript, React JS, Next JS**
 
 - 📚 Je suis en formation chez [Openclassrooms](https://openclassrooms.com/fr/) et je passe la formation **Développeur d'applications JavaScript / React**
 

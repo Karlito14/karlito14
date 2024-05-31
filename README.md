@@ -1,7 +1,7 @@
 <h1 align="center">Salut à tous👋, Je suis Carlos Leiroz</h1>
 <h3 align="center">Étudiant développeur web chez Openclassrooms, j'❤️ le JavaScript</h3>
 
-- 🔭 Je travaille actuellement sur [Billed](https://github.com/Karlito14/projet9Billed)
+- 🔭 Je travaille actuellement sur [SportSee](https://github.com/Karlito14/projet12SportSee)
 
 - 🌱 J'apprends actuellement **JavaScript, TypeScript, React JS, Next JS**
 

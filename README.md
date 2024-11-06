@@ -3,7 +3,7 @@
 
 - 🔭 Je travaille actuellement sur [Argent Bank](https://github.com/Karlito14/projet13ArgentBank)
 
-- 🌱 J'apprends actuellement **JavaScript, TypeScript, React JS, Next JS**
+- 🌱 J'apprends actuellement **JavaScript, TypeScript, React JS, React Native**
 
 - 📚 Je suis en formation chez [Openclassrooms](https://openclassrooms.com/fr/) et je passe la formation **Développeur d'applications JavaScript / React**
 
